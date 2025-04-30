@@ -12,10 +12,12 @@ Hi! I'm Jiayi, an ECE Master's student at Brown University who loves blending so
 
 - 🧠 Brain-Computer Interfaces (BCI), EEG signal classification, and consciousness assessment
 - 🔐 Network security and data synthesis using GANs
-- 🧪 Software testing and cloud infrastructure at Ericsson (Java, Cassandra, OAuth2)
+- 🧪 Software testing and cloud infrastructure
 - 📊 Data engineering and visualization using Python, SQL, and Power BI
-
-I enjoy working on cross-functional teams and exploring how intelligent systems can improve lives — especially in healthcare and human-machine interaction.
+- 🤖 Deep learning model development including CNN, RNN, BiLSTM, and GANs for time-series
+- 🌐 Full-stack development and UI/UX design — built and deployed several **WeChat Mini Programs**, including user-facing features and back-end integration  
+- 📈 Applied data analytics to optimize product features, resulting in a **200% increase in user acquisition**
+I enjoy working on cross-functional teams and exploring how intelligent systems can improve lives — especially in human-machine interaction.
 
 ---
 
@@ -48,13 +50,19 @@ I enjoy working on cross-functional teams and exploring how intelligent systems 
 
 - 🏃‍♀️ I love long-distance running — half marathons are my favorite!  
 - 📚 I’m a huge fan of manga — I enjoy reading both classics and new releases  
-- 🧋 Favorite productivity hack: coding with lo-fi music and milk tea ☕
+- 🌏 Passionate about exploring diverse cultures — I love learning new customs, languages, and perspectives  
+- 🤝 I enjoy making friends from all over the world and believe in the power of meaningful conversations 🌟  
+- 🗣️ I speak **Mandarin Chinese**, **English**, and a bit of **Japanese** — よろしくお願いします！  
+- 🎨 I have a strong interest in **art and design**, and I love blending creativity with technology  
+- 🐉 I enjoy sharing the beauty of **Chinese culture** with people from all backgrounds — from calligraphy to cuisine to traditions!
+- 🍱 I'm a big **foodie** — whether it’s exploring street food or trying new recipes, I believe food brings people together ❤️
 
 ---
 
 ## 📫 Let's Connect!
 
 📧 jiayi_chen6@brown.edu  
+💼 [LinkedIn](https://www.linkedin.com/in/jiayi-chen-72871b31b)  
 💬 Always open to interesting projects or collaborations!
 
 ---
