@@ -41,7 +41,7 @@ I enjoy working on cross-functional teams and exploring how intelligent systems 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" title="Figma" />
 
   <!-- Testing / QA -->
-  <img src="https://raw.githubusercontent.com/ChrisL2/Postman-Logo/main/postman-icon.png" width="40" alt="Postman" title="Postman" />
+
   <img src="https://raw.githubusercontent.com/apache/jmeter/master/xdocs/images/jmeter.png" width="40" alt="JMeter" title="Apache JMeter" />
 
   <!-- PM & Collaboration Tools -->
