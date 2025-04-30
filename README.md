@@ -25,36 +25,36 @@ I enjoy working on cross-functional teams and exploring how intelligent systems 
 
 <p align="left">
   <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" title="JavaScript" />
 
   <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" alt="Oracle" title="Oracle" />
 
   <!-- DevOps & General Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter" title="Jupyter Notebook" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" title="Figma" />
 
   <!-- Testing / QA Tools -->
-  <img src="https://static-00.iconduck.com/assets.00/postman-icon-2048x2048-sf2jzr3j.png" width="40" title="Postman" />
-  <img src="https://seeklogo.com/images/J/jmeter-logo-BFE3452028-seeklogo.com.png" width="40" title="Apache JMeter" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Postman_%28software%29.png" width="40" alt="Postman" title="Postman" />
+  <img src="https://raw.githubusercontent.com/apache/jmeter/master/xdocs/images/jmeter.png" width="40" alt="JMeter" title="Apache JMeter" />
 
   <!-- PM & Collaboration Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="40" />
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" width="40" title="Trello" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" alt="Jira" title="Jira" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="40" alt="Confluence" title="Confluence" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" width="40" alt="Trello" title="Trello" />
 
   <!-- Data & Visualization -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" />
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40" title="Power BI" />
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="40" title="Excel" />
-  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="40" title="SPSS" />
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968395.png" width="40" title="Stata" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" alt="Matlab" title="MATLAB" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40" alt="Power BI" title="Power BI" />
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="40" alt="Excel" title="Microsoft Excel" />
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="40" alt="SPSS" title="IBM SPSS" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968395.png" width="40" alt="Stata" title="Stata" />
 </p>
 
 ---
