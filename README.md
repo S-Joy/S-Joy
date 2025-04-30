@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Jiayi Chen 🌟</h1>
 
 <p align="center">
-🎓 Master's Student @ Brown University | 💻 Software & AI Engineer | 📊 Researcher | 🧠 BCI & Signal Processing Enthusiast  
+ 🎓 Master's Student @ Brown University | 💻 Software & AI Engineer | 🧪 Test Engineer | 📊 Data Analyst  | 🎯 Aspiring Product Manager
 </p>
 
 ---
