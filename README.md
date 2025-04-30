@@ -21,20 +21,40 @@ Hi! I'm Joy, an ECE Master's student at Brown University who loves blending soft
 I enjoy working on cross-functional teams and exploring how intelligent systems can improve lives — especially in human-machine interaction.
 
 ---
-
 ## 🛠️ Tech Stack & Tools
 
 <p align="left">
+  <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+
+  <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" />
+
+  <!-- DevOps & General Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+
+  <!-- Testing / QA Tools -->
+  <img src="https://static-00.iconduck.com/assets.00/postman-icon-2048x2048-sf2jzr3j.png" width="40" title="Postman" />
+  <img src="https://seeklogo.com/images/J/jmeter-logo-BFE3452028-seeklogo.com.png" width="40" title="Apache JMeter" />
+
+  <!-- PM & Collaboration Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="40" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" width="40" title="Trello" />
+
+  <!-- Data & Visualization -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40" title="Power BI" />
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="40" title="Excel" />
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="40" title="SPSS" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968395.png" width="40" title="Stata" />
 </p>
 
 ---
