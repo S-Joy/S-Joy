@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Jiayi Chen 🌟</h1>
+<h1 align="center">Hi there, I'm Jiayi(Joy) Chen 🌟</h1>
 
 <p align="center">
- 🎓 Master's Student @ Brown University | 💻 Software & AI Engineer | 🧪 Test Engineer | 📊 Data Analyst  | 🎯 Aspiring Product Manager
+ 🎓 Master's Student @ Brown University | 💻 Software & AI Engineer | 🧪 Test Engineer | 📊 Data Analyst | 🎯 Aspiring Product Manager
 </p>
 
 ---
