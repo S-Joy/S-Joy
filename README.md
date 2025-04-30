@@ -17,6 +17,7 @@ Hi! I'm Joy, an ECE Master's student at Brown University who loves blending soft
 - 🤖 Deep learning model development including CNN, RNN, BiLSTM, and GANs for time-series
 - 🌐 Full-stack development and UI/UX design — built and deployed several **WeChat Mini Programs**, including user-facing features and back-end integration  
 - 📈 Applied data analytics to optimize product features, resulting in a **200% increase in user acquisition**
+
 I enjoy working on cross-functional teams and exploring how intelligent systems can improve lives — especially in human-machine interaction.
 
 ---
