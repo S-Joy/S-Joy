@@ -53,7 +53,7 @@ I enjoy working on cross-functional teams and exploring how intelligent systems 
 - 📚 I’m a huge fan of manga — I enjoy reading both classics and new releases  
 - 🌏 Passionate about exploring diverse cultures — I love learning new customs, languages, and perspectives  
 - 🤝 I enjoy making friends from all over the world and believe in the power of meaningful conversations 🌟  
-- 🗣️ I speak **Mandarin Chinese**, **English**, and a bit of **Japanese** — よろしくお願いします！  
+- 🗣️ I speak **Mandarin Chinese**, **English**, and **Japanese** — よろしくお願いします！  
 - 🎨 I have a strong interest in **art and design**, and I love blending creativity with technology  
 - 🐉 I enjoy sharing the beauty of **Chinese culture** with people from all backgrounds — from calligraphy to cuisine to traditions!
 - 🍱 I'm a big **foodie** — whether it’s exploring street food or trying new recipes, I believe food brings people together ❤️
