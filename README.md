@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Jiayi(Joy) Chen 🌟</h1>
+<h1 align="center">Hi there, I'm Jiayi (Joy) Chen 🌟</h1>
 
 <p align="center">
  🎓 Master's Student @ Brown University | 💻 Software & AI Engineer | 🧪 Test Engineer | 📊 Data Analyst | 🎯 Aspiring Product Manager
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Hi! I'm Jiayi, an ECE Master's student at Brown University who loves blending software engineering with AI and data science. I have experience working with:
+Hi! I'm Joy, an ECE Master's student at Brown University who loves blending software engineering with AI and data science. I have experience working with:
 
 - 🧠 Brain-Computer Interfaces (BCI), EEG signal classification, and consciousness assessment
 - 🔐 Network security and data synthesis using GANs
