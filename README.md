@@ -86,8 +86,7 @@ I enjoy working on cross-functional teams and exploring how intelligent systems 
 
 ## 📫 Let's Connect!
 
-📧 jiayi_chen6@brown.edu  
-💼 [LinkedIn](https://www.linkedin.com/in/jiayi-chen-72871b31b)  
+📧 jiayi_chen6@brown.edu   
 💬 Always open to interesting projects or collaborations!
 
 ---
